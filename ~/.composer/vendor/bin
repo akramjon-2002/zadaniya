@@ -1,0 +1,21 @@
+{
+    "name": "akram/test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Akram\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "firdavs a"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "yiisoft/yii2-composer": false
+        }
+    }
+}
